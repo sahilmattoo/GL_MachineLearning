@@ -15,6 +15,11 @@ CLUSTERING
 
 https://raw.githubusercontent.com/sahilmattoo/GL_MachineLearning/master/Clustering_Data.csv
 
+Decision Tree
+
+https://raw.githubusercontent.com/sahilmattoo/GL_MachineLearning/master/DecisionTree_data.csv
+
+
 -------------------------------- READ DATA FROM GITHUB Into R ---------------------
 
 library(readr)  # for read_csv

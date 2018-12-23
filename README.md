@@ -11,6 +11,10 @@ Churn.CSV
 
 https://raw.githubusercontent.com/sahilmattoo/GL_MachineLearning/master/Churn.csv
 
+CLUSTERING
+
+https://raw.githubusercontent.com/sahilmattoo/GL_MachineLearning/master/Clustering_Data.csv
+
 -------------------------------- READ DATA FROM GITHUB Into R ---------------------
 
 library(readr)  # for read_csv
